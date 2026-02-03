@@ -21,6 +21,9 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 # Coding and Output
+
+# NAME: MUHAMMED AIMAN S
+# REG NO: 212224240097 
 <img width="583" height="191" alt="image" src="https://github.com/user-attachments/assets/f6bb7880-20a8-450e-ba6e-b911c5b6403b" />
 <img width="1239" height="886" alt="image" src="https://github.com/user-attachments/assets/638c86de-c9f5-4643-8cb4-22dfe273ee1d" />
 <img width="344" height="639" alt="image" src="https://github.com/user-attachments/assets/8ac61efe-7005-4309-8eca-1189ba816ca4" />
