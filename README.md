@@ -39,7 +39,8 @@ STEP 6: Use zscore of to remove outliers
 <img width="853" height="645" alt="image" src="https://github.com/user-attachments/assets/c4aecc68-1178-4944-affa-18ac5734d1d3" />
 <img width="599" height="795" alt="image" src="https://github.com/user-attachments/assets/a5d4462b-487e-491c-a2dd-46de0f18d926" />
 <img width="478" height="490" alt="image" src="https://github.com/user-attachments/assets/9d6ff912-e5a3-4913-b4c9-990f2e460e37" />
-<img width="675" height="616" alt="image" src="https://github.com/user-attachments/assets/816d07a2-f6fa-49ee-a576-773a877174f2" />
+<img width="849" height="831" alt="image" src="https://github.com/user-attachments/assets/86548c02-793e-48c6-b7df-43408799edb8" />
+
 
 
 
@@ -51,4 +52,4 @@ STEP 6: Use zscore of to remove outliers
 
 
 # Result
-          <<include your Result here>>
+Thus to read the given data and perform data cleaning and save the cleaned data to a file done successfully.
